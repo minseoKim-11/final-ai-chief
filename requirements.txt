@@ -1,0 +1,7 @@
+# --- [핵심] Hugging Face & PyTorch ---
+transformers
+torch
+accelerate
+
+# --- [Task 3] DeepL API 모듈용 ---
+requests
